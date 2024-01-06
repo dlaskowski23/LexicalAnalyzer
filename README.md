@@ -1,4 +1,4 @@
-# CS280-Lexcia-Analyzer-Parser-and-Interpreter 
+Lexical Analyzer
 
 <br>The first part was creating a lexical analyzer that is used to read a text file and determine what the next token is. With the
 knowledge of the next and previous token, the analyzer determines if an error has occurred and what the error is. The language
